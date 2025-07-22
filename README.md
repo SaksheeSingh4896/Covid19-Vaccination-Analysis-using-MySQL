@@ -1,5 +1,5 @@
 # Covid-19 Pandemic: A Comprehensive Data Analysis with SQL & Tableau
-By Michael Olaniyi Jeremiah
+By Sakshee Singh
 
 ![Covid19-](https://github.com/mikeolaniyi/Covid19_Vaccination_Analysis_in_SQL/assets/120651356/ab54c8f4-7465-49b9-8502-c9f758497889)
 
@@ -297,6 +297,4 @@ By implementing these recommendations, countries will be better positioned to ha
 
 
 Thank you for reading. 
-Kindly contact me for any discussion on projects or job offers on: 
-Email: michaeljeremiah124@gmail.com
-Phone: 2347066644028
+
